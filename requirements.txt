@@ -1,0 +1,5 @@
+python 3.8
+pip install kivy
+pip install kivymd 
+pip install buildozer
+pip install cython 
